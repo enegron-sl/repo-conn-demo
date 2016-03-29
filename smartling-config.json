@@ -32,10 +32,7 @@
         {
             "type"                      : "yaml",
             "pathRegex"                 : "en.yaml",
-            "translationPathExpression" : "${locale}.yaml",
-            "smartlingDirectives"       : [
-                 "smartling.pseudo_inflation = 150"
-             ]
+            "translationPathExpression" : "${locale}.yaml"
          }
      ]
 }
