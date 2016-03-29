@@ -2,5 +2,5 @@ string1: "yaml string1"
 string2: "yaml string2"
 #string from branch merged into trunk
 20160329Astring1: "branch 20160329A string1"
-#string added from branch
+#string added from branch touched
 20160329Bstring1: "branch 20160329B string1"
