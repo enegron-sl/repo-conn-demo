@@ -1,7 +1,6 @@
 ---
 string1: "yaml string1 ES translated 160314:16:14"
 string2: "yaml string2 ES translated"
-#string from branch merged into trunk
 20160329Astring1: "branch 20160329A string1 es translated again"
-#string from branchC
+20160329Bstring1: "branch 20160329B string1 ES translated"
 20160329Cstring1: "branch 20160329C string1 es translation"
