@@ -33,11 +33,6 @@
             "type"                      : "yaml",
             "pathRegex"                 : "en.yaml",
             "translationPathExpression" : "${locale}.yaml"
-         },
-         {
-            "type"                      : "javaProperties",
-            "pathRegex"                 : "en.properties",
-            "translationPathExpression" : "${locale}.properties"
          }
      ]
 }
