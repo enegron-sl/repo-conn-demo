@@ -4,3 +4,4 @@ string2: "yaml string2"
 20160329Bstring1: "branch 20160329B string1"
 20160329Cstring1: "branch 20160329C string1"
 # comment
+20160627string1: "master 20160627 string1"
