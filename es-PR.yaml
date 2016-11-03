@@ -1,0 +1,12 @@
+---
+string1: "yaml string1 ES translated 160314:16:14"
+string2: "yaml string2 ES translated"
+20160329Astring1: "branch 20160329A string1 es translated again"
+20160329Bstring1: "branch 20160329B string1 ES translated"
+20160329Cstring1: "branch 20160329C string1 es translation"
+# comment
+20160627string1: "master 20160627 string1 ES TRANS"
+20160908string1: "master 20160908 string1 for the github demo ES TRANS"
+# check "locales" usage
+20161103string1: "master 20161103string1 ES TRANS"
+# touch file to get repo-conn to push it
