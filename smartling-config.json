@@ -41,8 +41,8 @@
          },
         {
             "type"                      : "plainText",
-            "pathRegex"                 : "test1.txt",
-            "translationPathExpression" : "test1-${locale}.txt"
+            "pathRegex"                 : "test2.txt",
+            "translationPathExpression" : "test2-${locale}.txt"
          }
      ]
 }
