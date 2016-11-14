@@ -13,4 +13,6 @@ string2: "yaml string2"
 20161110string2: "master 20161110string2"
 # repo conn 1.5.4 check
 20161114string1: "master 20161114string1"
+#setup callback
+20161114string2: "master 20161114string2"
 
