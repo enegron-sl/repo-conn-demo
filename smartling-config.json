@@ -38,11 +38,6 @@
             "type"                      : "yaml",
             "pathRegex"                 : "en.yaml",
             "translationPathExpression" : "${locale}.yaml"
-         },
-        {
-            "type"                      : "plainText",
-            "pathRegex"                 : "test2.txt",
-            "translationPathExpression" : "test2-${locale}.txt"
          }
      ]
 }
