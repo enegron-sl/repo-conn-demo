@@ -17,6 +17,5 @@ string2: "yaml string2"
 20161114string2: "master 20161114string2"
 20161114string3: "master 20161114string3"
 #20161122
-20161122string1: "master 20161122string1"
-20161122string2: "master 20161122string2"
+20161122string3: "master 20161122string3"
 
