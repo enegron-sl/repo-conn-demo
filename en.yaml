@@ -21,3 +21,4 @@ string2: "yaml string2"
 #20171219A
 20171219AS1: "branch 20171219A string1"
 20180404f1: "20180404f1 branch string1"
+20180404s2: "20180404 string2 commited directly to master"
