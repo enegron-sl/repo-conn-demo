@@ -42,7 +42,7 @@
             "type"                      : "yaml",
             "authorizeContent"          : "false",
             "pathRegex"                 : "en.yaml",
-            "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
+            "translationPathExpression" : "${originalFile.path}${locale}.${originalFile.extension}"
          }      
      ]
 }
