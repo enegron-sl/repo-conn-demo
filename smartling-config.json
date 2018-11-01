@@ -8,6 +8,10 @@
          {
              "smartling" : "es",
              "application" : "ES"
+         },
+         {
+             "smartling" : "fr-FR",
+             "application" : "fr-FR"
          }
      ],
 
