@@ -47,7 +47,7 @@
             "authorizeContent"          : "false",
             "pathRegex"                 : "en.(yaml|yml)",
 //            "translationPathExpression" : "${originalFile.path}${locale}.${originalFile.extension}"
-            "translationPathExpression" : "${originalFile.path}${locale}.\1"
+            "translationPathExpression" : "${originalFile.path}${locale}.\\1"
          }      
      ]
 }
